@@ -12,3 +12,5 @@ Aplikace bude napsána pomocí programovacího jazyku Dart a pomocí software Fl
 
 
 Projekt může používat kdokoliv, jelikož bude velmi přehledný i prostý. Jelikož je tahle aplikace velmi běžná, mnozí již budou vědět, jak fungují aplikace na zobrazení hodin a stopek. Největším cílem pro nás je vytvořit funkční a jednoduchou aplikaci, která bude užitečná a bude se s ní dobře pracovat. 
+
+<a href=https://github.com/hotnthot/Clock/tree/main/doc> Dokumentace </a>
