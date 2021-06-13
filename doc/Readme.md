@@ -3,7 +3,7 @@ Dokumentace souborů aplikace Hodiny :
 
 <a href=https://github.com/hotnthot/Clock/blob/main/doc/Scenare.md>Scénáře použití</a>
 <br>
-<a href=https://github.com/hotnthot/Clock/blob/main/doc/Hodiny%20-%20diagram.PNG>Diagram tříd</a>
+<a href=https://github.com/hotnthot/Clock/blob/main/doc/Hodiny%20-%20diagram.PNG>Use-case diagram</a>
 <br>
 <a href=https://github.com/hotnthot/Clock/blob/main/doc/persony.md>Persony</a>
 <br>
