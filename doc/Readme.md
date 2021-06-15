@@ -14,3 +14,5 @@ Dokumentace souborů aplikace Hodiny :
 <a href=https://github.com/hotnthot/Clock/blob/main/doc/Sv%C4%9Btov%C3%A9%20%C4%8Dasy%20wireframe.PNG>Wireframe Světové časy</a>
 <br>
 <a href=https://github.com/hotnthot/Clock/blob/main/doc/Sv%C4%9Btov%C3%A9%20%C4%8Dasy-%20p%C5%99id%C3%A1n%C3%AD%20nov%C3%A9ho%20%C4%8Dasu.PNG>Světové časy přidání nového času</a>
+<br>
+<a href=https://github.com/hotnthot/Clock/blob/main/doc/Dokumentace-projektu.pdf>Dokumentace</a>
